@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NITaF6p/NdLKR5D1M8exSsxebkmfxgNJSWTtEat+/kUXa66NrR4tCOL907yeUV/E7J2i99sYZBSu//L1s91+NQ==",
+  "dgSpecHash": "WyTJhufhfhrCACWeiFWuewhVi7h9O08iZKcv8pNniLeCzlgXdwPOMpCNPSc1LEcscGF+ZWWY+XeJjoWSalT+Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joshu\\CSharpTest\\CSharpTest.csproj",
+  "projectFilePath": "C:\\Users\\joshu\\TowerDefenseApp\\TowerDefenseApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

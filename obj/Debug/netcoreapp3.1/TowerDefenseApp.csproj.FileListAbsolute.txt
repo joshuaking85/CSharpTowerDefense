@@ -1,0 +1,13 @@
+C:\Users\joshu\TowerDefenseApp\obj\Debug\netcoreapp3.1\TowerDefenseApp.csprojAssemblyReference.cache
+C:\Users\joshu\TowerDefenseApp\obj\Debug\netcoreapp3.1\TowerDefenseApp.csproj.CoreCompileInputs.cache
+C:\Users\joshu\TowerDefenseApp\obj\Debug\netcoreapp3.1\TowerDefenseApp.AssemblyInfoInputs.cache
+C:\Users\joshu\TowerDefenseApp\obj\Debug\netcoreapp3.1\TowerDefenseApp.AssemblyInfo.cs
+C:\Users\joshu\TowerDefenseApp\bin\Debug\netcoreapp3.1\TowerDefenseApp.exe
+C:\Users\joshu\TowerDefenseApp\bin\Debug\netcoreapp3.1\TowerDefenseApp.deps.json
+C:\Users\joshu\TowerDefenseApp\bin\Debug\netcoreapp3.1\TowerDefenseApp.runtimeconfig.json
+C:\Users\joshu\TowerDefenseApp\bin\Debug\netcoreapp3.1\TowerDefenseApp.runtimeconfig.dev.json
+C:\Users\joshu\TowerDefenseApp\bin\Debug\netcoreapp3.1\TowerDefenseApp.dll
+C:\Users\joshu\TowerDefenseApp\bin\Debug\netcoreapp3.1\TowerDefenseApp.pdb
+C:\Users\joshu\TowerDefenseApp\obj\Debug\netcoreapp3.1\TowerDefenseApp.dll
+C:\Users\joshu\TowerDefenseApp\obj\Debug\netcoreapp3.1\TowerDefenseApp.pdb
+C:\Users\joshu\TowerDefenseApp\obj\Debug\netcoreapp3.1\TowerDefenseApp.genruntimeconfig.cache

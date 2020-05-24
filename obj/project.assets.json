@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshu\\CSharpTest\\CSharpTest.csproj",
-      "projectName": "CSharpTest",
-      "projectPath": "C:\\Users\\joshu\\CSharpTest\\CSharpTest.csproj",
+      "projectUniqueName": "C:\\Users\\joshu\\TowerDefenseApp\\TowerDefenseApp.csproj",
+      "projectName": "TowerDefenseApp",
+      "projectPath": "C:\\Users\\joshu\\TowerDefenseApp\\TowerDefenseApp.csproj",
       "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshu\\CSharpTest\\obj\\",
+      "outputPath": "C:\\Users\\joshu\\TowerDefenseApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshu\\AppData\\Roaming\\NuGet\\NuGet.Config"
