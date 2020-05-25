@@ -8,13 +8,20 @@ namespace TreehouseDefense
         {
             Map map = new Map(8, 5);
             
-            Point point = new Point(4, 2);
-            bool isOnMap = map.OnMap(point);
-            Console.WriteLine(isOnMap);
+            /* Point x = new MapLocation(4, 2);
+            Point p = x;
+            map.OnMap(new MapLocation(0,0));
             
-            point = new Point(8, 5);
-            isOnMap = map.OnMap(point);
-            Console.WriteLine(isOnMap);
+            Console.WriteLine(x.DistanceTo(5, 5));
+            Console.WriteLine(x is MapLocation);
+            Console.WriteLine(x is Point);
+            Point point = new Point(0, 0);
+            Console.WriteLine(point is MapLocation); */
+            try{
+                MapLocation mapLocation = new MapLocation(20, 20, map);
+            } catch(Exception) {
+                Console.WriteLine("That Map location is not on the map");
+            }
         }
     }
 }
