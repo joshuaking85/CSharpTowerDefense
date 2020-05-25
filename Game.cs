@@ -23,11 +23,11 @@ namespace TreehouseDefense
             
             catch(OutOfBoundsException ex)
             {
-                Console.WriteLine(ex.Message)
+                Console.WriteLine(ex.Message);
             }
             catch(TreehouseDefenseException)
             {
-                Console.WriteLine("Unhandled TreehouseDefenseException")
+                Console.WriteLine("Unhandled TreehouseDefenseException");
             }
             catch(Exception) {
                 Console.WriteLine("Unhandled Exception");
