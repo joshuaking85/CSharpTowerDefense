@@ -28,8 +28,9 @@ namespace TreehouseDefense
                     if(isSuccessfulShot())
                     {
                         invader.DecreaseHealth(Power);
+
                         if(invader.IsNeutralized){
-                            Console.WriteLine("Invader is Neutralized!");
+                            Console.WriteLine("Neutralized and invader at " + invader.Location + "!");
                         }
                     } 
                     else
