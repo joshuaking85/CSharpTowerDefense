@@ -29,12 +29,13 @@ namespace TreehouseDefense
                     return;
                 }
                 
-                Invader[] invaders = 
+                IInvader[] invaders = 
                 {
                     new ShieldedInvader(path),
                     new FastInvader(path),
                     new StrongInvader(path),
-                    new BasicInvader(path)
+                    new BasicInvader(path),
+                    new ResurrectingInvader(path)
                 };
                 
                 Tower[] towers = {

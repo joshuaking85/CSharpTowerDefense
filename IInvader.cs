@@ -13,7 +13,7 @@ namespace TreehouseDefense
         int Health {get;}
         bool HasScored {get;}
         bool IsNeutralized {get;}
-        bool isActive {get;}
+        bool IsActive {get;}
         void DecreaseHealth(int factor);
     }
 }

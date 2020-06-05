@@ -24,7 +24,7 @@ namespace TreehouseDefense
                 remainingInvaders = 0;
                 foreach (IInvader invader in _invaders)
                 {
-                    if (invader.isActive)
+                    if (invader.IsActive)
                     {
                         invader.Move();
                         if (invader.HasScored)

@@ -9,7 +9,7 @@ namespace TreehouseDefense
         public abstract int Health { get; protected set; }
         public bool HasScored { get { return _pathStep >= _path.Length; }}
         public bool IsNeutralized => Health <= 0;
-        public bool isActive => !(IsNeutralized || HasScored);
+        public bool IsActive => !(IsNeutralized || HasScored);
         public Invader(Path path)
         {
             _path = path;

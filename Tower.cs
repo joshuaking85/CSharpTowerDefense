@@ -23,7 +23,7 @@ namespace TreehouseDefense
             foreach(IInvader invader in invaders)
             {
                 // Do stuff
-                if(invader.isActive && _location.InRangeOf(invader.Location, Range))
+                if(invader.IsActive && _location.InRangeOf(invader.Location, Range))
                 {
                     if(isSuccessfulShot())
                     {
